@@ -1,0 +1,42 @@
+#loginButton:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+}
+
+#loginButton:hover {
+    -fx-opacity: 0.9;
+    -fx-scale-y: 1.1;
+    -fx-scale-x: 1.1;
+}
+
+#forgotPassButton:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+}
+
+#logoutButton:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+    -fx-border-radius: 3;
+    -fx-border-width: 2;
+}
+
+#goBackButton:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+    -fx-border-radius: 3;
+    -fx-border-width: 2;
+}
+
+#gridButton:pressed:hover {
+    -fx-scale-y: 0.9;
+    -fx-scale-x: 0.9;
+}
+#gridButton:hover {
+    -fx-opacity: 0.9;
+    -fx-scale-y: 1.1;
+    -fx-scale-x: 1.1;
+    -fx-border-color: #fb5607;
+    -fx-border-radius: 15;
+    -fx-border-width: 2;
+}
